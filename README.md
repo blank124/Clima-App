@@ -1,3 +1,4 @@
+![AppImage](climaImageView.png)
 
 #  Clima App
 
