@@ -3,7 +3,7 @@
 
 ## Utilities
 
-Weather APIs, Dark Mode Enabled
+Open Weather Map APIs, Dark Mode Enabled
 
 ## Functionality
 
